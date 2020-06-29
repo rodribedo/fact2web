@@ -1,0 +1,66 @@
+@charset "utf-8";
+/* CSS Document */
+
+ .slider{
+                background-image: url("../images/banner2.png");
+                height: 40vh;
+                                         width: 100%;
+                background-size:cover;
+                background-repeat: no-repeat;
+                background-position: center;
+                }
+
+#divContenedor {
+	width:1000px;
+	height:743px;
+	margin:0 auto;
+}
+#divEncabezado {
+	
+	left:25px;
+	top:25px;
+	width:981px;
+	height:82px;
+	z-index:2;
+	background-color: #fbec88;
+}
+#divMenu {
+
+	left:27px;
+	top:117px;
+	width:981px;
+	height:43px;
+	z-index:3;
+	/*background:#CCF*/
+}
+#divContenido {
+	
+	left:29px;
+	top:170px;
+	width:981px;
+	height:480px;
+	z-index:4;
+	overflow:auto
+	 
+}
+#divPiePagina {
+	
+	left:29px;
+	top:843px;
+	width:981px;
+	height:76px;
+	z-index:5;
+	background-color: #fbec88;
+}
+
+.texto {
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	color: #FFF;
+}
+.txt_gen_gris {
+    font-family: tahoma;
+    font-size: 8px;
+    color: #7F8082;
+ }
+

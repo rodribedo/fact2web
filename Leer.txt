@@ -1,0 +1,34 @@
+ 
+Este desarrollo corresponde a la version BETA-1 de facturaweb:
+
+Requiere el cambio de password de los archivos de conexioncon la base de datos que son 3:
+
+   conexion2foto.php
+   conexionBasesDatos.php
+   conexion.php
+   
+Este desarrollo incorpora funcionalidades limitadas entre las que se destacan:
+
+Portal index con funcionalidades Responsive.
+
+Registro de un nuevo usuario.
+
+Autenticacion del usuario creado o existente. (se recomienda el uso del usuario rodribedo con password 12345 ya que tiene algunos datos previamente cargados).
+
+
+el sitio de home o area de trabajo DASHBOARD, funciona:
+
+Identificacion del usuario registrado.
+Foto  del usuario registrado con acceso a base de datos para seleccionar imagen.
+
+Seccion de gestion de Cliente desde el menu lateral donde se podra hacer lo siguiente:
+
+Consultar lista de clientes para el usuario especificamente registrado.
+
+Crea Cliente para el usuario registrado.
+
+Editar Cliente para el usuario registrado.
+
+
+
+Esperamos criticas constructivas. :)

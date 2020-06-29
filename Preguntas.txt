@@ -1,0 +1,11 @@
+relacion usuario factura ??? deberia ser usuarioXfactura vs factura ?
+
+Como manejar numero de factura ??  el consecutivo es el del sistema y no unipersonal, que pasara cuando borren facturas ??
+
+como consultar los productos de un cliente si no hay relacion alguna ?
+
+Comohago reportes presentables organizando o mejor dicho separando resultados  de las consultas por tipo de xxx campo ?
+
+
+
+
