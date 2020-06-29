@@ -27,7 +27,7 @@ if (!isset($_REQUEST['pag']))
 	 
  
 	<div id="divContenedor">
-<!--    <div id="divEncabezado">
+<!--    <div id="divEncabezado de la aplicacion Fac2web">
 	<___php include "Vista/encabezado.php"?>
 
     <a  align="right" class="btn btn-success btnterapia" href="index.php?pag=Vista/registro">Registrese aqui</a>
